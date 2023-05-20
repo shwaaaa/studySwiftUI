@@ -17,7 +17,7 @@ struct ContentView: View {
             SwiftUIView()
                 .offset(y: -130)
                 .padding(.bottom, -130)
-                
+            
             VStack(alignment: .leading) {
                 Text("Turtle Rock")
                     .font(.title)
